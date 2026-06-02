@@ -1,6 +1,6 @@
 # Projeto Balão em Python
 
-Projeto simples utilizando Turtle para desenhar um balão.
+Projeto simples utilizando Turtle para estourar um balão.
 
 ## Tecnologias
 - Python
